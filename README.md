@@ -19,8 +19,8 @@ Welcome to The Design Trip front-end developer test. This assignment is designed
    - Replicate the layout based on the provided designs.
    - Ensure the design is fully responsive.
 2. Scroll-driven animation
-   - Implement the section animation (reference in the figma file) using any library/technology of your choice (only for desktops, handle in mobile gracefully).
-   - Implement button hover effects, provided in the figma file.
+   - Implement the section animations (reference in the figma file, PROTOTYPE section) using any library/technology of your choice (**only for desktops**, handle in mobile gracefully). **NOTE** - the animations are supposed to be scroll based, they are triggered on click in prototype due to figma limitations. 
+   - Implement button hover effects, provided in the figma file as a component (only icon button hover animation is required). 
 3. Special requirements
    - **SVG Masks or Clip-Paths:** Demonstrate understanding of SVGs by creating the curved borders for the cards using these techniques or any other appropriate methods. Avoid using plain images for this purpose
 
