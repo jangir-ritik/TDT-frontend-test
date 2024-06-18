@@ -13,6 +13,7 @@ Welcome to The Design Trip front-end developer test. This assignment is designed
 
 ### Design Files
 [Link to figma file containing reference web page and mobile design](https://www.figma.com/design/yVqpv1mbE2z4LXKr6wjieH/TDT_Test-Front-end-dev?node-id=0-1&t=fW0p2oAnzsrNNXMh-0)
+
 [Link to prototype video](https://drive.google.com/file/d/1YfuTa6OS0_95MCQUDwgGzIxU8Kzgb0Di/view?usp=sharing)
 
 ## Instructions
